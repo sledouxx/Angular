@@ -1,0 +1,15 @@
+#header {
+  font-family: fantasy;
+  font-weight: 40pt;
+  font-size: 20pt;
+}
+
+#header:hover{
+  color:#FFC500;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 11pt;
+}
+

@@ -1,0 +1,14 @@
+<h3>
+Products
+</h3>
+
+
+  <div *ngFor="let product of products">
+  
+    <a id=title title="product.productName">{{product.productName}}</a><p>
+    <a id=price price="product.productPrice">{{product.productPrice | currency }}</a></p>
+   <a id=description description="product.productDescription">{{product.productDescription}}</a><p>
+  <a><img src={{product.productImage}}></a><p><p><br>
+
+
+  
