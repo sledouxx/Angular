@@ -7,9 +7,16 @@ h3{
 p {
   font-family: fantasy;
   font-size: 13px;
+  text-align: center;
 }
 
 #img {
   max-width:40%;
   height:auto;
+}
+
+#container1 {
+text-align: center;
+padding-left: 13%;
+padding-right: 13%;
 }
